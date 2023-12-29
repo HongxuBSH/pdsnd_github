@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib as mp
 
 #Creating a dictionary containing the data sources for the three cities
+#Date source frpm Udacity 
 CITY_DATA = { 'chicago': '/home/workspace/chicago.csv', 'Chicago': '/home/workspace/chicago.csv',
              'New York City': '/home/workspace/new_york_city.csv', 'New york city': '/home/workspace/new_york_city.csv',
               'new york city': '/home/workspace/new_york_city.csv', 'washington': '/home/workspace/washington.csv',
