@@ -1,6 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
+import matplotlib as mp
 
 #Creating a dictionary containing the data sources for the three cities
 CITY_DATA = { 'chicago': '/home/workspace/chicago.csv', 'Chicago': '/home/workspace/chicago.csv',
